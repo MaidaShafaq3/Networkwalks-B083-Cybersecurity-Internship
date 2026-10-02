@@ -263,6 +263,6 @@ Additional recommended controls include:
 > **Security Note:** The original SQL backup and extracted confidential records should not be committed to the public GitHub repository. Evidence screenshots should redact employee names, national IDs, contact information, salary values and shareholder information.
 
 
-👤 Author
+# 👤 Author
 
 Maida Shafaq
