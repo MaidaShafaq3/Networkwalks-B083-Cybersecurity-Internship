@@ -16,7 +16,7 @@ The portal required a username and password to access patient lab reports.
 
 **📸 Screenshot: Patient Portal Login**
 
-> ![Patient Portal Login](<Week-04/Screenshots/1. Patient-Portal-Login.png>)
+![Patient Portal Login](<../Screenshots/1. Patient-Portal-Login.png>)
 
 ---
 
@@ -41,7 +41,7 @@ Warning: mysqli_query(): You have an error in your SQL syntax
 
 **📸 Screenshot: SQL Injection Error in Burp Repeater**
 
-> ![SQL Injection Error in Burp Repeater](<Week-04/Screenshots/2. SQL-Injection-Error-in-Burp-Repeater.png>)
+> ![SQL Injection Error in Burp Repeater](<../Screenshots/2. SQL-Injection-Error-in-Burp-Repeater.png>)
 
 ---
 
@@ -64,7 +64,7 @@ bypass_cookie.txt
 
 **📸 Screenshot: Successful SQL Injection Authentication Bypass**
 
-> ![Successful SQL Injection Authentication Bypass](<Week-04/Screenshots/3. Successful-SQL-Injection-Authentication-Bypass.png>)
+> ![Successful SQL Injection Authentication Bypass](<../Screenshots/3. Successful-SQL-Injection-Authentication-Bypass.png>)
 
 ---
 
@@ -84,7 +84,7 @@ The files were saved locally in the Kali Linux Desktop directory.
 
 **📸 Screenshot: Patient Reports Accessible After Login**
 
-> ![Patient Reports Accessible After Login](<Week-04/Screenshots/4. Patient-Reports-Accessible-After-Login.png>)
+> ![Patient Reports Accessible After Login](<../Screenshots/4. Patient-Reports-Accessible-After-Login.png>)
 
 ---
 
@@ -106,7 +106,7 @@ report_3.pdf: PDF document, version 1.4, 1 page(s)
 
 **📸 Screenshot: Three PDF Files Successfully Retrieved**
 
-> ![Three PDF Files Successfully Retrieved](<Week-04/Screenshots/5. Three-PDF-Files-Successfully-Retrieved.png>)
+> ![Three PDF Files Successfully Retrieved](<../Screenshots/5. Three-PDF-Files-Successfully-Retrieved.png>)
 
 ---
 
