@@ -36,7 +36,7 @@ This indicated that the files were using an older standard PDF encryption scheme
 
 ### 📸 Evidence
 
-> ![PDF Encryption Analysis](<../Screenshots/6.PDF-Encryption-Analysis.png>)
+> ![PDF Encryption Analysis](<../Screenshots/6. PDF-Encryption-Analysis.png>)
 
 ---
 
